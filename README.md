@@ -6,3 +6,5 @@ A line I wrote
 A line I wrote
 
 I am writing to make a change
+
+I am making another change
